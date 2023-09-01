@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manu Chaitanya!</h1>
+<h1 align="center">Hi, I'm Harsh Jain!</h1>
 <h3 align="center">B.Tech Second Year Student at Bennett University</h3>
 
  <p align = "center"> <img  title="Manu Chaitanya" alt="Manu Chaitanya" width="600" src="./logos/animation.gif" /> </p>
@@ -8,23 +8,21 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **E-Commerce Website**
+ 🔭 I’m currently working on a **PDF Merger App**
 
  🦾 I’m currently solving **Leetcode Medium Level Quetsions**
  
  🌱 I’m currently learning **MERN Stack**
 
- 💬 Ask me about **HTML, CSS, JavaScript, MySQL, PHP... and more. Check my Repls: [Replit @manuchaitanya](https://replit.com/@ManuChaitanya)**
+ 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, MySQL, PHP... and more.**
 
  </div>
  <h3 align = "center">
 Connect with me: </b><br>
 <br>
-<a href="www.linkedin.com/in/manuchaitanya"><img align="center" title="LinkedIn - Manu Chaitanya" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/m7chaitanya/"><img align="center" title="Instagram - Manu Chaitanya" alt="Instagram" width="22px" src="./logos/instagram.svg" /></a>&nbsp;&nbsp;
-<a href="mailto:root2924100@gmail.com"><img align="center" title="Mail - Manu Chaitanya" alt="Mail" width="22px" src="./logos/gmail.svg" /></a>&nbsp;&nbsp;
-<a href="https://medium.com/@manuchaitanya"><img align="center" title="Medium - Manu Chaitanya" alt="Medium" width="22px" src="./logos/medium-icon-svgrepo-com.svg" /></a>&nbsp;&nbsp;
-<a href="https://replit.com/@ManuChaitanya"><img align="center" title="Replit - Manu Chaitanya" alt="Replit" width="22px" src="./logos/replit.svg" /></a>
+<a href="www.linkedin.com/in/harshjain1729"><img align="center" title="LinkedIn - Manu Chaitanya" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/itxjharsh/"><img align="center" title="Instagram - Manu Chaitanya" alt="Instagram" width="22px" src="./logos/instagram.svg" /></a>&nbsp;&nbsp;
+<a href="mailto:itxjharsh1729@gmail.com"><img align="center" title="Mail - Manu Chaitanya" alt="Mail" width="22px" src="./logos/gmail.svg" /></a>&nbsp;&nbsp;
  </h3>
 <br>
 
@@ -67,9 +65,9 @@ Connect with me: </b><br>
 <h2 align="center">Statistics</h2>
 
 <div align=center>
- <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=manuchaitanya17&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=harshjain1729&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20" alt="readme stats" />
  <br>
-  <img width=500 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=manuchaitanya17&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=1&count_weight=1&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=500 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=harshjain1729&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=1&count_weight=1&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
