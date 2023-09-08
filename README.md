@@ -93,11 +93,11 @@ LeetCode                 24 Hrs 00 Mins        ███████████
 Web Development          18 Hrs 30 Mins        ███████████░░░░░░░░░░░░░░   37.40 % 
 Project                  01 Hrs 00 Mins        ██░░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
 
-💻 Intership Capstone: 
-Techinal
+💻 Internship Capstone: 
+Technical
 Preparation              12 Hrs 00 Mins        █████████████████████████   100.00 % 
 ```
-Last Updated on 27/08/2023 00:54:42 UTC
+Last Updated on September 2, 2023 at 00:56:42 UTC
 
 <p align="center">
     Thanks for visiting!
